@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://aa.flylee.top/app/daishua.ipa</string>
+					<string>https://aa.flylee.top/app/daishua.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://aa.flylee.top/app/daishua.png</string>
+					<string>https://aa.flylee.top/app/daishua.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://aa.flylee.top/app/daishua.png</string>
+					<string>https://aa.flylee.top/app/daishua.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
